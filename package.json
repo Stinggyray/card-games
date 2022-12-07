@@ -4,7 +4,7 @@
   "description": "sanguosha lmao",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "engines": {
     "node": "10.16.0",
